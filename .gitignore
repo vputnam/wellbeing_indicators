@@ -1,1 +1,5 @@
 covid_19_data_portal.csv 
+__pycache__
+.gitignore
+.Rhistory
+.DS_Store
